@@ -81,7 +81,7 @@ A trusted app for parents and caregivers, providing child-safe medication guidan
 ## Demo
 | iPhone | iPad |
 | ------------- | ------------- |
-| ![App Demo](assets/app_demo.gif) | ![App Demo](assets/ipad_app_demo.gif) |
+| ![App Demo](assets/childsafe_app_demo.gif) | ![App Demo](assets/childsafe_ipad_demo.gif) |
 
 
 ## Key Features

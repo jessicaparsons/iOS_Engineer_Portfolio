@@ -1,7 +1,7 @@
 # iOS Engineer Portfolio
 Showcasing my best Swift iOS apps that are crafted with clean code, great UI, and solid architecture.
 
-# 1. ⛴️ *Royal Sea Journeys: Port Explorer**  
+# 1. ⛴️ **Royal Sea Journeys: Port Explorer**  
 
 **Royal Sea Journeys: Port Explorer** is a fully-featured iOS application designed to bring the ultimate cruise itinerary to life. With a stunning user interface, Port Explorer harnesses the power of **MapKit** and external APIs to deliver dynamic travel content. Whether you're discovering unique shore excursions, exploring breathtaking ports of call, or planning your next adventure, this app is your ultimate digital companion for all things cruising.
 

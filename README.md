@@ -1,7 +1,7 @@
 # iOS Engineer Portfolio
 Showcasing my best Swift iOS apps that are crafted with clean code, great UI, and solid architecture.
 
-# 1. **Royal Sea Journeys: Port Explorer**  
+# 1. ⛴️ *Royal Sea Journeys: Port Explorer**  
 
 **Royal Sea Journeys: Port Explorer** is a fully-featured iOS application designed to bring the ultimate cruise itinerary to life. With a stunning user interface, Port Explorer harnesses the power of **MapKit** and external APIs to deliver dynamic travel content. Whether you're discovering unique shore excursions, exploring breathtaking ports of call, or planning your next adventure, this app is your ultimate digital companion for all things cruising.
 
@@ -64,7 +64,7 @@ Showcasing my best Swift iOS apps that are crafted with clean code, great UI, an
 
 
 
-# 2. ChildSafeRx
+# 2. 🩺 ChildSafeRx
 A trusted app for parents and caregivers, providing child-safe medication guidance and information.
 
 ## About
@@ -155,29 +155,12 @@ I dedicated **several days** to this project:
 
 Since I wanted to fully explore Swift Concurrency and SwiftUI, I took my time to build everything properly without rushing.  
 
-## 🔄 Trade-offs and Decisions  
-I didn’t make any major trade-offs because I dedicated extra time to the project. However:  
-
-- **Hand-coding Image Caching** – Instead of using an external library (like Kingfisher), I implemented my own solution for image caching. This took **a lot of time**, but it was a valuable learning experience.  
-- **Unit Testing** – While I wrote many tests, I know they could be cleaner. As I build more apps, I plan to refine my testing approach.  
-
-## 🏗 Weakest Part of the Project  
-- **Unit Testing** – While I aimed for solid test coverage, unit testing isn’t my strongest area. I tried to be thorough but would love to improve my ability to write better tests as I develop.  
-
-## Additional Information  
-### Meets All Requirements:  
-- **Swift Concurrency (`async/await`)** for all async operations.  
-- **No third-party dependencies** – fully built with Apple's frameworks.  
-- **Custom Image Caching** – avoids redundant network calls.  
-- **SwiftUI-Based UI** with iOS 16+ support.  
-- **Unit Tests** covering core logic (data fetching, caching).  
-
 ### Future Enhancements:
 - In production, I would meet with the app architect to decide if the favorites should also be saved to the same place as the images are cached, instead of to User Defaults.
 - For future apps, I would still choose to use a third-party library for image caching in production to save development time.  
 
 ## Final Thoughts  
-Ovenly was a fun and rewarding project! It allowed me to showcase my UI skills, explore Swift Concurrency, and practice manual image caching. While unit testing is an area I need to improve, I'm proud of the smooth user experience and thoughtful details built into the app.  
+Ovenly was a fun and rewarding project! It allowed me to showcase my UI skills, explore Swift Concurrency, and practice manual image caching. I'm proud of the smooth user experience and thoughtful details built into the app.  
 
 
 ## 🚀 Built With  
